@@ -11,16 +11,5 @@ title:            "nobody-138"
 tagline:          
 description:      
 url:              "https://nobody-138.github.io"
-baseurl:          "https://nobody-138.github.io"
+baseurl:          
 
-author:
-  name:           "nobody-138"
-  url:            "https://nobody-138.github.io"
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0 
-
-github:
-  repo:           https://nobody-138/github.io
