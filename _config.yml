@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            "Nobody-138"
 tagline:          'A Jekyll theme'
 description:      
-url:              "https://nobody-138/github.io"
+url:              https://nobody-138/github.io
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://nobody-138/github.io
