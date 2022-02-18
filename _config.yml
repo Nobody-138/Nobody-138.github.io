@@ -14,8 +14,8 @@ url:              "https://nobody-138.github.io"
 baseurl:          "https://nobody-138.github.io"
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           "nobody-138"
+  url:            "https://nobody-138.github.io"
 
 paginate:         5
 
