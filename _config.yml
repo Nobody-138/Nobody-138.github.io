@@ -8,10 +8,10 @@ relative_permalinks: true
 
 # Setup
 title:            "nobody-138"
-tagline:          'A Jekyll theme'
+tagline:          
 description:      
 url:              "https://Nobody-138.github.io"
-baseurl:          /
+baseurl:          "https://Nobody-138.github.io"
 
 author:
   name:           'Mark Otto'
