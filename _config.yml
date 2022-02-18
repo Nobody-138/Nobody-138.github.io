@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            "Nobody-138"
 tagline:          'A Jekyll theme'
 description:      
-url:              https://nobody-138/github.io
+url:              nobody-138.github.io
 baseurl:          /
 
 author:
