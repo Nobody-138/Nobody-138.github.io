@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            "Nobody-138"
+title:            "nobody-138"
 tagline:          'A Jekyll theme'
 description:      
-url:              nobody-138.github.io
+url:              "https://nobody-138.github.io"
 baseurl:          /
 
 author:
