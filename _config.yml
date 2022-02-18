@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            "nobody-138"
 tagline:          
 description:      
-url:              "https://Nobody-138.github.io"
-baseurl:          "https://Nobody-138.github.io"
+url:              "https://nobody-138.github.io"
+baseurl:          "https://nobody-138.github.io"
 
 author:
   name:           'Mark Otto'
